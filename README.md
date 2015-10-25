@@ -1,6 +1,6 @@
 #zeroShop MVC 框架（PHP）
 #####前台访问网址是：http://www.marryup-wang-dong.com/myshop/zeroshop/
-#####后台参观网址是：http://www.marryup-wang-dong.com/myshop/zeroshop/admin/master_index.php
+######后台参观网址是：http://www.marryup-wang-dong.com/myshop/zeroshop/admin/master_index.php
 #####购物车访问网址是：http://www.marryup-wang-dong.com/myshop/zeroshop/checkout.php
 #####前台登录演示网址是：http://www.marryup-wang-dong.com/myshop/zeroshop/login.php
 #####前台商品详情演示是：http://www.marryup-wang-dong.com/myshop/zeroshop/gooddetail.php?id=8
