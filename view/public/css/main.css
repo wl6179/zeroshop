@@ -1,0 +1,87 @@
+BODY {
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+	margin: 0px;
+	text-align: center;
+	padding: 10px;
+}
+
+.red {
+	color: #FF0000;
+}
+.note {
+	font-size: 14px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+a {
+	font-size: 12px;
+	color: #666666;
+	text-decoration: underline;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+}
+.ah {
+	font-size: 12px;
+	color: #666666;
+}
+
+#tabletop {
+	width:100%;
+} 
+
+#tabletop td{
+	font-size: 12px;
+	padding: 5px;
+}
+
+#tabletop a{
+	font-size: 12px;
+	color: #666666;
+	text-decoration: underline;
+}
+#tabletop a:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+#table2 {
+	border-collapse: collapse;
+	background-position: center;
+	margin:0 auto;
+} 
+#table2 tr {background-color:expression((this.sectionRowIndex%2==0)?"#ffffff":"#ffffff")}
+#table2 th{ margin-left:1px; margin-bottom:1px; font-size: 12px; border: 1px solid #cccccc; background-color: #083C6F/*#55759C*/; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; color:#F1F5F8; } 
+#table2 td{
+	list-style-type:none;
+	border: 1px solid #cccccc;
+	font-size: 12px;
+	margin: 1px;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+} 
+.Tdinput{width:250px; height:22px; line-height:16px; padding:2px; border:2px #AA9FFF solid; }
+#table2 a{
+	font-size: 12px;
+	color: #666666;
+	text-decoration: underline;
+}
+#table2 a:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+/*浏览器的兼容问题*/
+.cc:after {content: “.”;display: block;height:0;clear: both;visibility: hidden;}
+.cc {display: inline-block;}/* Hides from IE-mac \*/
+* html .cc {height: 1%;}
+.cc {display: block;}/* End hide from IE-mac *//*清除浮动 代码*/
+.c{clear:both;height:0px;font:0px/0px Arial;overflow:hidden;}
