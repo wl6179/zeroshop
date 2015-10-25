@@ -5,9 +5,9 @@
 #####前台登录演示网址是：http://marryup-wang-dong.com/myshop/zeroshop/login.php
 #####前台商品详情演示是：http://marryup-wang-dong.com/myshop/zeroshop/gooddetail.php?id=8
 - MVC 的核心代码 M 父类 在：zeroshop/model/Model.class.php，包含了自动过滤、自动验证、自动填充机制
-- 
+
 - 使用纯 MVC 的大后台代码在：zeroshop/admin/*，拥有 极简的代码量 & 高可重用性
-- 
+
 - 这是一个购物类网站，核心是 MVC 框架源代码，使用面向对象、设计模式、自动化处理参数等机制实现了代码重用
 - 使用 PHP 技术进行MVC开发
 - 优点在于大后台的代码可重用度高，一整套极简的纯Javascript代码，不依赖任何别的框架
