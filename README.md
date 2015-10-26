@@ -1,4 +1,5 @@
 #zeroShop MVC 框架（PHP）
+浏览效果：
 #####前台访问网址是：http://marryup-wang-dong.com/myshop/zeroshop/
 #####后台参观网址是：http://marryup-wang-dong.com/myshop/zeroshop/admin/master_index.php
 #####购物车访问网址是：http://marryup-wang-dong.com/myshop/zeroshop/checkout.php
