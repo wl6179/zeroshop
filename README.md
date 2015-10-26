@@ -6,6 +6,7 @@
 #####前台登录演示网址是：http://marryup-wang-dong.com/myshop/zeroshop/login.php
 #####前台商品详情演示是：http://marryup-wang-dong.com/myshop/zeroshop/gooddetail.php?id=8
 
+核心说明：
 - MVC 的核心 M 父类 在：zeroshop/model/Model.class.php，包含了自动过滤、自动验证、自动填充 等重要可重用机制
 - 整站已完全实现了 MVC 架构，如大后台代码 zeroshop/admin/* 中，查看代码可发现它们拥有 极简的代码量、清晰的代码分离
 
