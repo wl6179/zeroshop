@@ -52,6 +52,6 @@ $rsarray_good_good_oneclass = $model_good_good->select($data_search, 3, 'desc');
 // V
 include ROOT .'view/templates/sport_white/view.index.show.php';
 ````
-
+浏览效果：http://marryup-wang-dong.com/myshop/zeroshop/
 也开始于2013年
 上线于2014年！
